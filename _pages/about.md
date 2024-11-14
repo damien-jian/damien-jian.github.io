@@ -28,3 +28,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Hi there, this is Damien Jian (簡大閔 in Chinese, pronounced like Jian Da-Min). I'm a PhD student of Graduate Institute of Applied Physics under the guidance of Prof. Hsi-Sheng Goan @ National Taiwan University.
 
 I am interested in quantum machine learning, including but not limited to model design, training methods, and theoretical analysis. I am excited to work on discovering and exploring the quantum advantages of quantum computers in machine learning over classical machine learning.
+
+I'm working on make this page customize right now. It will soon looks better.
