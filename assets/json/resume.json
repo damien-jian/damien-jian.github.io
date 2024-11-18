@@ -4,7 +4,7 @@
     "label": "Scientist, Computer Scientist",
     "image": "",
     "email": "f10245023@ntu.edu.tw",
-    "phone": "966 069 678",
+    "phone": "",
     "url": "https://damien-jian.github.io/",
     "summary": "To be filled.",
     // "location": {
@@ -166,12 +166,20 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
         "Quantum Computing",
         "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Communication"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Artificial Intelligence",
+        "Reinforcement Learning",
+        "Deep Learning",
+        "Diffusion Models",
+        "Mamba"
       ]
     }
   ],

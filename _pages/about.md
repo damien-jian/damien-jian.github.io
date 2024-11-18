@@ -3,12 +3,12 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Do not go gentle into that good night.
+# subtitle: Do not go gentle into that good night.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: head.jpg
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -24,7 +24,8 @@ profile:
         </a>
     </p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -40,3 +41,8 @@ Hi there, this is Damien Jian (簡大閔 in Chinese, pronounced like Jian Da-Min
 I am interested in quantum machine learning, including but not limited to model design, training methods, and theoretical analysis. I am excited to work on discovering and exploring the quantum advantages of quantum computers in machine learning over classical machine learning.
 
 I'm working on customizing these pages right now. It will soon looks better.
+
+> <span style="font-family: 'Libre Baskerville', serif; font-size: 28px;">"Do not go gentle into that good night."</span><br />
+> <footer style="font-size: 18px;">
+        — From the movie <cite style="font-style: italic;">Interstellar</cite>
+    </footer>

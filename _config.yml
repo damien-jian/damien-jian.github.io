@@ -73,7 +73,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: damien-jian # your GitHub user name
 # inspirehep_id: 1010907 # Inspire HEP author ID
-# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: 2vYMLNUAAAAJ # your Google Scholar ID
+orcid_id: 0009-0009-6668-4787 # your ORCID ID
 
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
@@ -92,7 +93,6 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -208,7 +208,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -335,6 +335,7 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
+  details_layout: bibtex.html
   details_link: Details
 
   query: "@*"
